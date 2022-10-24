@@ -1,0 +1,54 @@
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.exe
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.deps.json
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.runtimeconfig.json
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.runtimeconfig.dev.json
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.dll
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.pdb
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csprojAssemblyReference.cache
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.AssemblyInfoInputs.cache
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.AssemblyInfo.cs
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csproj.CopyComplete
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.dll
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.pdb
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.genruntimeconfig.cache
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\feed-products\capterra.yaml
+C:\Users\Arpana\source\repos\GartnerAssignment\GartnerAssignment\bin\Debug\netcoreapp3.1\feed-products\softwareadvice.json
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.exe
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\feed-products\capterra.yaml
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\feed-products\softwareadvice.json
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.deps.json
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.runtimeconfig.json
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.runtimeconfig.dev.json
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.dll
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.pdb
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csprojAssemblyReference.cache
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.AssemblyInfoInputs.cache
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.AssemblyInfo.cs
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csproj.CopyComplete
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.dll
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.pdb
+C:\Users\Arpana\source\repos\productsfeeds\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.genruntimeconfig.cache
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.exe
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\feed-products\capterra.yaml
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\feed-products\softwareadvice.json
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.deps.json
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.runtimeconfig.json
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.runtimeconfig.dev.json
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.dll
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\GartnerAssignment.pdb
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csprojAssemblyReference.cache
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.AssemblyInfoInputs.cache
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.AssemblyInfo.cs
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csproj.CoreCompileInputs.cache
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.csproj.CopyComplete
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.dll
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.pdb
+C:\Abhishek\Garrtner\Take Home Assignment\software engineer\coding\productsfeeds-master\productsfeeds-master\GartnerAssignment\obj\Debug\netcoreapp3.1\GartnerAssignment.genruntimeconfig.cache
